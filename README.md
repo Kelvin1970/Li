@@ -1,23 +1,21 @@
 # Deep Learning with Python (Mar 2020)
 
-## Datasets repository
-https://kwseow.github.io/
+## Resources
+### [Datasets repository](https://kwseow.github.io/)
 
-## Python (download version specific to your OS) 
-https://www.python.org/downloads/
+### [Python (download version specific to your OS)](https://www.python.org/downloads/)
 
-## Anaconda (download version specific to your OS) 
-https://www.anaconda.com/
+### [Anaconda (download version specific to your OS)](https://www.anaconda.com/)
 
 ### [PyCharm (Python IDE)](https://www.jetbrains.com/pycharm/)
-
 
 ## Quizes
 + Link to interactive quizes http://bit.ly/2Y8MTi2  
 <img src="quiz_qr.png" alt="quiz qr code" width="40%"/>
 
-### Visualizing Various Filter Initializers in Keras (He uniform initialiser)
-https://blog.goodaudience.com/visualizing-various-filter-initializers-in-keras-ca14c996db22
+## Additional Resources
+
+### [Visualizing Various Filter Initializers in Keras (He uniform initialiser)](https://blog.goodaudience.com/visualizing-various-filter-initializers-in-keras-ca14c996db22)
 
 ### [Gentle Introduction to the Adam Optimization Algorithm for Deep Learning](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
 
