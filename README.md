@@ -19,9 +19,14 @@ https://www.anaconda.com/
 ### Visualizing Various Filter Initializers in Keras (He uniform initialiser)
 https://blog.goodaudience.com/visualizing-various-filter-initializers-in-keras-ca14c996db22
 
+### [Gentle Introduction to the Adam Optimization Algorithm for Deep Learning](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
+
 ### [The Conda cheet sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
 ### [Collection] 10 Best NumPy Cheat Sheets Every Python Coder Must Own
 https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/
 
 ### [Datacamp Numpy cheat sheet](Numpy_Python_Cheat_Sheet.pdf)
+
+
+
