@@ -21,8 +21,7 @@
 
 ### [The Conda cheet sheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
 
-### [Collection] 10 Best NumPy Cheat Sheets Every Python Coder Must Own
-https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/
+### [[Collection] 10 Best NumPy Cheat Sheets Every Python Coder Must Own](https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/)
 
 ### [Datacamp Numpy cheat sheet](Numpy_Python_Cheat_Sheet.pdf)
 
