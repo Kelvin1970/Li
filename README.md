@@ -18,3 +18,6 @@ https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c68
 ## Quizes
 + Link to interactive quizes http://bit.ly/2Y8MTi2  
 <img src="quiz_qr.png" alt="quiz qr code" width="40%"/>
+
+###Visualizing Various Filter Initializers in Keras (He uniform initialiser)
+https://blog.goodaudience.com/visualizing-various-filter-initializers-in-keras-ca14c996db22
