@@ -16,6 +16,8 @@
 ## Additional Readings
 ### [Keras Embedding layer](http://keras.io/layers/embeddings/)
 
+### [Keras Recurrent layers](http://faroit.com/keras-docs/1.2.1/layers/recurrent/)
+
 ### [Visualizing Various Filter Initializers in Keras (He uniform initialiser)](https://blog.goodaudience.com/visualizing-various-filter-initializers-in-keras-ca14c996db22)
 
 ### [Gentle Introduction to the Adam Optimization Algorithm for Deep Learning](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
