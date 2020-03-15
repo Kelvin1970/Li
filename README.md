@@ -9,8 +9,7 @@ https://www.python.org/downloads/
 ## Anaconda (download version specific to your OS) 
 https://www.anaconda.com/
 
-## PyCharm (Python IDE)
-https://www.jetbrains.com/pycharm/
+## [PyCharm (Python IDE)] (https://www.jetbrains.com/pycharm/)
 
 ## The Conda cheet sheet
 https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
