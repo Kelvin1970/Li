@@ -14,6 +14,7 @@
 <img src="quiz_qr.png" alt="quiz qr code" width="40%"/>
 
 ## Additional Readings
+### [Keras Embedding layer](http://keras.io/layers/embeddings/)
 
 ### [Visualizing Various Filter Initializers in Keras (He uniform initialiser)](https://blog.goodaudience.com/visualizing-various-filter-initializers-in-keras-ca14c996db22)
 
