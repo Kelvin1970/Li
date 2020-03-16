@@ -34,5 +34,6 @@ Recreate the virtual environment using dlwp.txt using this command "conda env cr
 
 ### [Datacamp Numpy cheat sheet](Numpy_Python_Cheat_Sheet.pdf)
 
+### [Datacamp Keras cheat sheet](Keras_Cheat_Sheet_Python.pdf)
 
 
