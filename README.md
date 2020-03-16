@@ -1,5 +1,7 @@
 # Deep Learning with Python (Mar 2020)
 
+Recreate the virtual environment using dlwp.txt.  
+
 ## Resources
 ### [Datasets repository](https://kwseow.github.io/)
 
