@@ -3,6 +3,9 @@
 Recreate the virtual environment using dlwp.txt.  
 
 ## Resources
+
+### [Pokemon Dataset](https://www.dropbox.com/s/pndys4fdkz24wsb/pokemon_dataset.zip?dl=1)
+
 ### [Datasets repository](https://kwseow.github.io/)
 
 ### [Python (download version specific to your OS)](https://www.python.org/downloads/)
