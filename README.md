@@ -1,6 +1,6 @@
 # Deep Learning with Python (Mar 2020)
 
-Recreate the virtual environment using dlwp.txt.  
+Recreate the virtual environment using dlwp.txt using this command "conda env create --file dlwp.txt"
 
 ## Resources
 
