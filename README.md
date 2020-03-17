@@ -19,6 +19,8 @@ Recreate the virtual environment using dlwp.txt using this command "conda env cr
 <img src="quiz_qr.png" alt="quiz qr code" width="40%"/>
 
 ## Additional Readings
+### [Deep learning book by Ian Goodfellow](https://www.deeplearningbook.org/)
+
 ### [Keras Embedding layer](http://keras.io/layers/embeddings/)
 
 ### [Keras Recurrent layers](http://faroit.com/keras-docs/1.2.1/layers/recurrent/)
